@@ -1,0 +1,22 @@
+C:\Users\louis\Desktop\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\bin\Release\netcoreapp2.0\Louisoft01.com.deps.json
+C:\Users\louis\Desktop\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\bin\Release\netcoreapp2.0\Louisoft01.com.runtimeconfig.json
+C:\Users\louis\Desktop\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\bin\Release\netcoreapp2.0\Louisoft01.com.runtimeconfig.dev.json
+C:\Users\louis\Desktop\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\bin\Release\netcoreapp2.0\Louisoft01.com.dll
+C:\Users\louis\Desktop\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\bin\Release\netcoreapp2.0\Louisoft01.com.pdb
+C:\Users\louis\Desktop\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\obj\Release\netcoreapp2.0\Louisoft01.com.csprojResolveAssemblyReference.cache
+C:\Users\louis\Desktop\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\obj\Release\netcoreapp2.0\Louisoft01.com.csproj.CoreCompileInputs.cache
+C:\Users\louis\Desktop\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\obj\Release\netcoreapp2.0\Louisoft01.com.AssemblyInfoInputs.cache
+C:\Users\louis\Desktop\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\obj\Release\netcoreapp2.0\Louisoft01.com.AssemblyInfo.cs
+C:\Users\louis\Desktop\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\obj\Release\netcoreapp2.0\Louisoft01.com.dll
+C:\Users\louis\Desktop\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\obj\Release\netcoreapp2.0\Louisoft01.com.pdb
+D:\Documents\VPS Stuff\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\bin\Release\netcoreapp2.0\Louisoft01.com.deps.json
+D:\Documents\VPS Stuff\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\bin\Release\netcoreapp2.0\Louisoft01.com.runtimeconfig.json
+D:\Documents\VPS Stuff\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\bin\Release\netcoreapp2.0\Louisoft01.com.runtimeconfig.dev.json
+D:\Documents\VPS Stuff\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\bin\Release\netcoreapp2.0\Louisoft01.com.dll
+D:\Documents\VPS Stuff\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\bin\Release\netcoreapp2.0\Louisoft01.com.pdb
+D:\Documents\VPS Stuff\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\obj\Release\netcoreapp2.0\Louisoft01.com.csprojResolveAssemblyReference.cache
+D:\Documents\VPS Stuff\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\obj\Release\netcoreapp2.0\Louisoft01.com.csproj.CoreCompileInputs.cache
+D:\Documents\VPS Stuff\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\obj\Release\netcoreapp2.0\Louisoft01.com.AssemblyInfoInputs.cache
+D:\Documents\VPS Stuff\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\obj\Release\netcoreapp2.0\Louisoft01.com.AssemblyInfo.cs
+D:\Documents\VPS Stuff\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\obj\Release\netcoreapp2.0\Louisoft01.com.dll
+D:\Documents\VPS Stuff\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\obj\Release\netcoreapp2.0\Louisoft01.com.pdb
