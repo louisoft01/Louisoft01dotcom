@@ -1,5 +1,5 @@
 D:\Documents\VPS Stuff\Louisoft01 ASP\Louisoft01.com\Louisoft01.com
---output-path=obj\Any CPU\Release\netcoreapp2.0\
+--output-path=obj\Release\netcoreapp2.0\
 --application-name=Louisoft01.com
 --content-root=D:\Documents\VPS Stuff\Louisoft01 ASP\Louisoft01.com\Louisoft01.com
 --file=D:\Documents\VPS Stuff\Louisoft01 ASP\Louisoft01.com\Louisoft01.com\Pages\About.cshtml
